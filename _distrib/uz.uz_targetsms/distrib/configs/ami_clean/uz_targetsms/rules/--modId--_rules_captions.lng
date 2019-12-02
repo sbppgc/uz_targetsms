@@ -1,0 +1,21 @@
+##--system info: module_owner="##section##" module="##modId##" system="1"--##
+
+%%login%en%%
+Login
+%%login%ru%%
+Логин
+
+%%pass%en%%
+Pass
+%%pass%ru%%
+Пароль
+
+%%sender_name%en%%
+Sender name
+%%sender_name%ru%%
+Имя отправителя
+
+%%admins_phones%en%%
+Admins phones
+%%admins_phones%ru%%
+Телефоны администраторов (по одному на строку)

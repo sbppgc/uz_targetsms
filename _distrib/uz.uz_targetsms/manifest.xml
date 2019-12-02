@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package id="uz.uz_targetsms" version="1.0" manifestVersion="1.0">
+    <information lang="en">
+        <title>TargetSMS</title>
+        <description>TargetSMS</description>
+        <author>Ugol Zreniya</author>
+        <source>http://www.ugolzreniya.ru/</source>
+    </information>
+    <information lang="ru">
+        <title>TargetSMS</title>
+        <description>TargetSMS.</description>
+        <author>Угол зрения</author>
+        <source>http://www.ugolzreniya.ru/</source>
+    </information>
+    <installation>
+        <install hypermodule="ami_clean" configuration="uz_targetsms" version="1.0" />
+    </installation>
+    <dependencies>
+        <dependency hypermodule="ami_clean" version="1.0" />
+    </dependencies>
+</package>
