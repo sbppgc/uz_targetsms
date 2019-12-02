@@ -1,8 +1,9 @@
 <?php
 /**
  * @copyright Ugol zreniya. All rights reserved.
- * @category  Config
+ * @author Sergey Prisyazhnyuk
  * @package   Config_AmiClean_UzTargetsms
+ * @license MIT; see LICENSE.txt
  */
 
 /**

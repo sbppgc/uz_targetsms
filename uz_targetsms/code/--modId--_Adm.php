@@ -1,6 +1,8 @@
 <?php
 /**
- * @copyright Ugol Zreniya. All rights reserved.
+ * @copyright Ugol zreniya. All rights reserved.
+ * @author Sergey Prisyazhnyuk
+ * @license MIT; see LICENSE.txt
  * @category  Module
  * @package   Module_##modId##
  */

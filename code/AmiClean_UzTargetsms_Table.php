@@ -2,9 +2,10 @@
 /**
  * AmiClean/UzTargetsms configuration.
  *
- * @copyright Ugol zreniya. All rights reserved. Changes are not allowed.
- * @category  Config
+ * @copyright Ugol zreniya. All rights reserved.
+ * @author Sergey Prisyazhnyuk
  * @package   Config_AmiClean_UzTargetsms
+ * @license MIT; see LICENSE.txt
  */
 
 /**

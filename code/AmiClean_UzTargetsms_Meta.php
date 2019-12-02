@@ -1,10 +1,9 @@
 <?php
 /**
- * AmiClean/UzTargetsms configuration.
- *
- * @copyright Ugol Zreniya. All rights reserved.
- * @category  Module
+ * @copyright Ugol zreniya. All rights reserved.
+ * @author Sergey Prisyazhnyuk
  * @package   Config_AmiClean_UzTargetsms
+ * @license MIT; see LICENSE.txt
  */
 
 /**

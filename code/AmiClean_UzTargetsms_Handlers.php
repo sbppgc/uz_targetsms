@@ -1,4 +1,11 @@
 <?php
+/**
+ * @copyright Ugol zreniya. All rights reserved.
+ * @author Sergey Prisyazhnyuk
+ * @package   Config_AmiClean_UzTargetsms
+ * @license MIT; see LICENSE.txt
+ */
+
 class AmiClean_UzTargetsms_OrderStatusHandler {
 
     //
